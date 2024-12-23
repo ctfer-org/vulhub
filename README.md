@@ -1,2 +1,4 @@
 
-VulHub by CTFer.org , Just like https://github.com/vulhub/vulhub
+
+Pre-built vulnerable docker environments  maintained by http://www.ctfer.org
+
